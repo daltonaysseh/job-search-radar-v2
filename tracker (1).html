@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NYC Equity Research Job Tracker</title>
+<style>
+  :root {
+    --bg: #0f1420;
+    --panel: #161d2e;
+    --border: #2a3348;
+    --text: #e6e9f0;
+    --muted: #7b8496;
+    --accent: #5b8def;
+    --row-hover: #1c2439;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f5f6f9;
+      --panel: #ffffff;
+      --border: #dde1ea;
+      --text: #1a1f2b;
+      --muted: #8a91a3;
+      --accent: #2f6fed;
+      --row-hover: #f0f3fb;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2rem 1.5rem 4rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+  .table-scroll {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--panel);
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 920px;
+    font-size: 0.88rem;
+  }
+  thead th {
+    text-align: left;
+    padding: 0.7rem 0.8rem;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-size: 0.72rem;
+    white-space: nowrap;
+  }
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--row-hover); }
+  td {
+    padding: 0.7rem 0.8rem;
+    vertical-align: top;
+  }
+  td.role-cell { max-width: 260px; }
+  tr.unverified { color: var(--muted); }
+  tr.unverified .company-name { color: var(--muted); }
+  .company-name { font-weight: 600; color: var(--text); }
+  .posted-badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    background: rgba(91, 141, 239, 0.15);
+    color: var(--accent);
+  }
+  tr.unverified .posted-badge {
+    background: transparent;
+    color: var(--muted);
+    font-style: italic;
+    padding-left: 0;
+  }
+  a.link-btn {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  a.link-btn:hover { text-decoration: underline; }
+  details.alumni {
+    margin-top: 0.35rem;
+    font-size: 0.78rem;
+  }
+  details.alumni summary {
+    cursor: pointer;
+    color: var(--muted);
+    list-style: none;
+  }
+  details.alumni summary::-webkit-details-marker { display: none; }
+  details.alumni summary:before {
+    content: "🔎 ";
+  }
+  details.alumni summary:hover { color: var(--accent); }
+  details.alumni a {
+    display: inline-block;
+    margin-top: 0.3rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.78rem;
+  }
+  details.alumni a:hover { text-decoration: underline; }
+  .applied-cell { text-align: center; }
+  input.applied-checkbox {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+  }
+  .empty-state {
+    padding: 3rem 1rem;
+    text-align: center;
+    color: var(--muted);
+  }
+  footer {
+    margin-top: 1.25rem;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>NYC Equity Research / Buy-Side Job Tracker</h1>
+  <div class="subtitle" id="subtitle">Entry-level equity research analyst / research associate / investment analyst postings — New York, NY</div>
+
+  <div class="table-scroll">
+    <table id="postings-table">
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Role</th>
+          <th>Location</th>
+          <th>Salary</th>
+          <th>Source</th>
+          <th>Link</th>
+          <th>Posted</th>
+          <th>Applied</th>
+        </tr>
+      </thead>
+      <tbody id="postings-body"></tbody>
+    </table>
+    <div class="empty-state" id="empty-state" style="display:none;">No qualifying postings yet. Check back next week.</div>
+  </div>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+  const POSTINGS = [
+  {
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research - New Analyst",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Goldman Sachs Careers",
+    "link": "https://prosple.com/graduate-employers/goldman-sachs/jobs-internships/global-investment-research-equity-research-new-analyst",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Citigroup",
+    "role": "Client - Equity Research, Full Time Associate",
+    "location": "New York, NY",
+    "salary": "$80,000 - $115,000",
+    "source": "Citi Careers",
+    "link": "https://jobs.citi.com/job/new-york/client-equity-research-full-time-associate-new-york-city-us-2026/287/84213472416",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Barclays",
+    "role": "Equity Research Analyst Graduate Program 2026",
+    "location": "New York, NY",
+    "salary": "$110,000",
+    "source": "Barclays Careers",
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-graduate-program-2026-new-york/13015/84831648864",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Consumer",
+    "location": "New York, NY",
+    "salary": "$95,000 - $115,000",
+    "source": "Company Careers Page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/104269-equity-research-associate-consumer",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Mid-Cap Banks and Consumer Finance",
+    "location": "New York, NY",
+    "salary": "$95,000 - $120,000",
+    "source": "Company Careers Page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/108416-equity-research-associate-mid-cap-banks-and-consumer-finance",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate - Financial Services Group",
+    "location": "New York, NY (also hiring in Minneapolis, MN / Chicago, IL)",
+    "salary": "$75,000 - $125,000",
+    "source": "Company Careers Page (Workday)",
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Associate---Financial-Services-Group_R-100451",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-29"
+  },
+  {
+    "company": "Third Bridge",
+    "role": "Research Associate",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page",
+    "link": "https://careers.thirdbridge.com/jobs/research-associate-in-new-york.628",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-30"
+  },
+  {
+    "company": "Third Bridge",
+    "role": "Associate, Credit & Public Equity Clients (2026 Intake)",
+    "location": "New York, NY",
+    "salary": "$70,000 base + uncapped bonus (~$84K Year 1 OTE)",
+    "source": "Company Careers Page",
+    "link": "https://careers.thirdbridge.com/jobs/associate-credit-public-equity-clients-in-new-york.2515",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-30"
+  },
+  {
+    "company": "BlackRock",
+    "role": "2026 Full-Time Analyst Program - Investment Research Track",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page",
+    "link": "https://careers.blackrock.com/job/new-york/2026-full-time-analyst-program-amers/45831/83232695408",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-30"
+  },
+  {
+    "company": "RBC Capital Markets",
+    "role": "Research Associate, Biotechnology",
+    "location": "New York, NY",
+    "salary": "$100,000 - $160,000 (base, ex. bonus)",
+    "source": "Company Careers Page",
+    "link": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000172980EXTERNALENCA/Research-Associate-Biotechnology",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-30"
+  },
+  {
+    "company": "William Blair",
+    "role": "Equity Research Associate - MedTech",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Greenhouse-backed)",
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=5044109007",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-30"
+  }
+];
+
+  const LAST_UPDATED = "2026-07-30";
+
+  function isRealDate(s) {
+    return /^\d{4}-\d{2}-\d{2}$/.test(s);
+  }
+
+  function sortPostings(list) {
+    const dated = list.filter(p => isRealDate(p.date_posted));
+    const undated = list.filter(p => !isRealDate(p.date_posted));
+    dated.sort((a, b) => b.date_posted.localeCompare(a.date_posted));
+    undated.sort((a, b) => (b.date_found || "").localeCompare(a.date_found || ""));
+    return dated.concat(undated);
+  }
+
+  function storageKey(posting) {
+    return "jsr_applied::" + posting.link;
+  }
+
+  function alumniUrl(company) {
+    const q = company + " University of Michigan";
+    return "https://www.linkedin.com/search/results/people/?keywords=" + encodeURIComponent(q);
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str == null ? "" : String(str);
+    return div.innerHTML;
+  }
+
+  function render() {
+    const tbody = document.getElementById("postings-body");
+    const emptyState = document.getElementById("empty-state");
+    const sorted = sortPostings(POSTINGS);
+
+    if (sorted.length === 0) {
+      document.getElementById("postings-table").style.display = "none";
+      emptyState.style.display = "block";
+      return;
+    }
+
+    tbody.innerHTML = "";
+
+    sorted.forEach(posting => {
+      const unverified = !isRealDate(posting.date_posted);
+      const tr = document.createElement("tr");
+      tr.className = unverified ? "unverified" : "";
+
+      const postedLabel = unverified ? "date unverified" : posting.date_posted;
+      const key = storageKey(posting);
+      const applied = localStorage.getItem(key) === "true";
+
+      tr.innerHTML = `
+        <td>
+          <div class="company-name">${escapeHtml(posting.company)}</div>
+          <details class="alumni">
+            <summary>Check Michigan alumni at ${escapeHtml(posting.company)}</summary>
+            <a href="${alumniUrl(posting.company)}" target="_blank" rel="noopener noreferrer">Open LinkedIn search &rarr;</a>
+          </details>
+        </td>
+        <td class="role-cell">${escapeHtml(posting.role)}</td>
+        <td>${escapeHtml(posting.location)}</td>
+        <td>${escapeHtml(posting.salary)}</td>
+        <td>${escapeHtml(posting.source)}</td>
+        <td><a class="link-btn" href="${escapeHtml(posting.link)}" target="_blank" rel="noopener noreferrer">View &rarr;</a></td>
+        <td><span class="posted-badge">${escapeHtml(postedLabel)}</span></td>
+        <td class="applied-cell"><input type="checkbox" class="applied-checkbox" ${applied ? "checked" : ""}></td>
+      `;
+
+      const checkbox = tr.querySelector(".applied-checkbox");
+      checkbox.addEventListener("change", () => {
+        localStorage.setItem(key, checkbox.checked ? "true" : "false");
+      });
+
+      tbody.appendChild(tr);
+    });
+  }
+
+  document.getElementById("footer").textContent =
+    "Last updated " + LAST_UPDATED + " · " + POSTINGS.length + " qualifying posting(s) tracked. " +
+    "Weekly scan covers Argus, CFRA, Zacks, Edison Group, Third Bridge, Wolfe Research, Morningstar, MoffettNathanson, William Blair, Baird, Raymond James, Stifel, KeyBanc, Piper Sandler, Needham, BTIG, BlackRock, Fidelity, T. Rowe Price, Wellington, Neuberger Berman, AllianceBernstein, Capital Group, MFS, Invesco, Janus Henderson, Franklin Templeton, Goldman Sachs, Morgan Stanley, JPMorgan, Bank of America, Citigroup, Barclays, Jefferies, Evercore, RBC.";
+
+  render();
+</script>
+</body>
+</html>
