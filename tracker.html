@@ -46,7 +46,7 @@
   table {
     border-collapse: collapse;
     width: 100%;
-    min-width: 920px;
+    min-width: 1020px;
     font-size: 0.88rem;
   }
   thead th {
@@ -86,6 +86,25 @@
     color: var(--muted);
     font-style: italic;
     padding-left: 0;
+  }
+  .employment-badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .employment-badge.full-time {
+    background: rgba(91, 141, 239, 0.15);
+    color: var(--accent);
+  }
+  .employment-badge.internship {
+    background: rgba(224, 160, 43, 0.18);
+    color: #d9a441;
+  }
+  @media (prefers-color-scheme: light) {
+    .employment-badge.internship { color: #93650a; }
   }
   a.link-btn {
     color: var(--accent);
@@ -143,7 +162,7 @@
 <body>
 <div class="wrap">
   <h1>NYC Equity Research / Buy-Side Job Tracker</h1>
-  <div class="subtitle" id="subtitle">Entry-level equity research analyst / research associate / investment analyst postings — New York, NY</div>
+  <div class="subtitle" id="subtitle">Entry-level equity research analyst / research associate / investment analyst roles and internships — New York, NY</div>
 
   <div class="table-scroll">
     <table id="postings-table">
@@ -151,6 +170,7 @@
         <tr>
           <th>Company</th>
           <th>Role</th>
+          <th>Employment Type</th>
           <th>Location</th>
           <th>Salary</th>
           <th>Source</th>
@@ -178,7 +198,8 @@
     "link": "https://careers.thirdbridge.com/jobs/research-associate-in-new-york.628",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "Third Bridge",
@@ -189,7 +210,8 @@
     "link": "https://careers.thirdbridge.com/jobs/associate-credit-public-equity-clients-in-new-york.2515",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "William Blair",
@@ -200,7 +222,8 @@
     "link": "https://www.williamblair.com/Careers/job-description?gh_jid=5044109007",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "RBC Capital Markets",
@@ -211,7 +234,8 @@
     "link": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000164218EXTERNALENCA/Research-Associate-Fintech-Payments-Processing",
     "date_posted": "2026-05-20",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "Stifel",
@@ -222,7 +246,8 @@
     "link": "https://www.glassdoor.com/job-listing/research-associate-i-consumer-stifel-financial-JV_IC1132348_KO0,29_KE30,46.htm?jl=1010140414572",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "Stifel",
@@ -233,7 +258,8 @@
     "link": "https://www.glassdoor.com/job-listing/research-associate-i-industrials-stifel-financial-JV_IC1132348_KO0,32_KE33,49.htm?jl=1010146845675",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "unconfirmed"
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "BlackRock",
@@ -244,7 +270,8 @@
     "link": "https://careers.blackrock.com/job/new-york/2027-full-time-analyst-program-amrs/45831/97843197536",
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
-    "verification": "confirmed"
+    "verification": "confirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "KeyBanc Capital Markets",
@@ -255,11 +282,120 @@
     "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Equity-Research-Associate---Oil---Gas_R-40840",
     "date_posted": "2026-07-28",
     "date_found": "2026-07-30",
-    "verification": "confirmed"
+    "verification": "confirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Enterprise Software",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/103287-equity-research-associate-enterprise-software",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "Third Bridge",
+    "role": "Research Associate (Healthcare)",
+    "location": "New York, NY",
+    "salary": "$67,000 base + bonus scheme eligible after 1 month",
+    "source": "Company Careers Page",
+    "link": "https://careers.thirdbridge.com/jobs/research-associate-healthcare-in-new-york.680",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate, Equity Research",
+    "location": "New York, NY (1301 Avenue of the Americas)",
+    "salary": "$71,000 - $125,000",
+    "source": "Company Careers Page (Workday)",
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-Equity-Research_R-41285",
+    "date_posted": "2026-07-30",
+    "date_found": "2026-07-31",
+    "verification": "confirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "Stifel",
+    "role": "2027 Summer Associate: Stifel Equity Research - New York",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Stifel)",
+    "link": "https://join.stifel.com/jobs/9092?lang=en-us",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
+  },
+  {
+    "company": "Stifel",
+    "role": "2027 Summer Associate: KBW Equity Research - New York",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Stifel iCIMS)",
+    "link": "https://careers-stifel.icims.com/jobs/8665/2027-summer-associate:-kbw-equity-research---new-york/job",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
+  },
+  {
+    "company": "Jefferies",
+    "role": "2027 Equity Research Summer Associate - New York",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (tal.net)",
+    "link": "https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1742-2027-Equity-Research-Summer-Associate-New-York/en-GB",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research - Summer Analyst (2027 Americas Program)",
+    "location": "New York City Area, NY",
+    "salary": "not disclosed",
+    "source": "Goldman Sachs Careers (higher.gs.com)",
+    "link": "https://higher.gs.com/roles/155787",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
+  },
+  {
+    "company": "Morgan Stanley",
+    "role": "Equity Research Summer Analyst Program (2027)",
+    "location": "New York, NY",
+    "salary": "$52.89/hour",
+    "source": "Company Careers Page (tal.net)",
+    "link": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20783-2027-Equity-Research-Summer-Analyst-Program-New-York/en-GB",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
+  },
+  {
+    "company": "JPMorgan",
+    "role": "2027 Markets Summer Analyst Program - Research",
+    "location": "New York, NY",
+    "salary": "$110,000 base (program rate)",
+    "source": "Company Careers Page (Oracle Cloud)",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690282",
+    "date_posted": "date_unverified",
+    "date_found": "2026-07-31",
+    "verification": "unconfirmed",
+    "employment_type": "internship"
   }
 ];
 
-  const LAST_UPDATED = "2026-07-30";
+  const LAST_UPDATED = "2026-07-31";
 
   function isRealDate(s) {
     return /^\d{4}-\d{2}-\d{2}$/.test(s);
@@ -288,6 +424,10 @@
     return div.innerHTML;
   }
 
+  function employmentLabel(type) {
+    return type === "internship" ? "Internship" : "Full-time";
+  }
+
   function render() {
     const tbody = document.getElementById("postings-body");
     const emptyState = document.getElementById("empty-state");
@@ -309,6 +449,7 @@
       const postedLabel = unverified ? "date unverified" : posting.date_posted;
       const key = storageKey(posting);
       const applied = localStorage.getItem(key) === "true";
+      const empType = posting.employment_type === "internship" ? "internship" : "full-time";
 
       tr.innerHTML = `
         <td>
@@ -319,6 +460,7 @@
           </details>
         </td>
         <td class="role-cell">${escapeHtml(posting.role)}</td>
+        <td><span class="employment-badge ${empType}">${escapeHtml(employmentLabel(empType))}</span></td>
         <td>${escapeHtml(posting.location)}</td>
         <td>${escapeHtml(posting.salary)}</td>
         <td>${escapeHtml(posting.source)}</td>
@@ -340,7 +482,7 @@
   }
 
   document.getElementById("footer").textContent =
-    "Last updated " + LAST_UPDATED + " · " + POSTINGS.length + " qualifying posting(s) tracked. " +
+    "Last updated " + LAST_UPDATED + " · " + POSTINGS.length + " qualifying posting(s) tracked (full-time roles and internships). " +
     "Weekly scan covers Argus, CFRA, Zacks, Edison Group, Third Bridge, Wolfe Research, Morningstar, MoffettNathanson, William Blair, Baird, Raymond James, Stifel, KeyBanc, Piper Sandler, Needham, BTIG, BlackRock, Fidelity, T. Rowe Price, Wellington, Neuberger Berman, AllianceBernstein, Capital Group, MFS, Invesco, Janus Henderson, Franklin Templeton, Goldman Sachs, Morgan Stanley, JPMorgan, Bank of America, Citigroup, Barclays, Jefferies, Evercore, RBC.";
 
   render();
