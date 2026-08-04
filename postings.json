@@ -9,7 +9,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "Third Bridge",
@@ -21,7 +22,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "William Blair",
@@ -33,7 +35,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "RBC Capital Markets",
@@ -45,7 +48,8 @@
     "date_posted": "2026-05-20",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "Stifel",
@@ -57,7 +61,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "Stifel",
@@ -69,7 +74,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-30",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-30"
   },
   {
     "company": "BlackRock",
@@ -105,7 +111,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "Third Bridge",
@@ -117,7 +124,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "full-time"
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "KeyBanc Capital Markets",
@@ -141,7 +149,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "internship"
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "Stifel",
@@ -153,7 +162,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "internship"
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "Jefferies",
@@ -165,7 +175,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "internship"
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "Goldman Sachs",
@@ -177,7 +188,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "internship"
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "Morgan Stanley",
@@ -189,7 +201,8 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
-    "employment_type": "internship"
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
   },
   {
     "company": "JPMorgan",
@@ -201,6 +214,82 @@
     "date_posted": "date_unverified",
     "date_found": "2026-07-31",
     "verification": "unconfirmed",
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-07-31"
+  },
+  {
+    "company": "William Blair",
+    "role": "Equity Research Associate - FinTech",
+    "location": "New York, NY",
+    "salary": "$140,000-$155,000",
+    "source": "Company Careers Page (Greenhouse-backed)",
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4989815007",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-03",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-03"
+  },
+  {
+    "company": "Raymond James",
+    "role": "Equity Research Associate - Consumer Softline Retail",
+    "location": "New York, NY",
+    "salary": "$80,000 - $108,000",
+    "source": "LinkedIn (Raymond James posting)",
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-consumer-softline-retail-new-york-at-raymond-james-4437617676",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-03",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-03"
+  },
+  {
+    "company": "Stifel",
+    "role": "Research Associate I - Energy",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Stifel)",
+    "link": "https://join.stifel.com/jobs/9416?lang=en-us",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-03",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-03"
+  },
+  {
+    "company": "JPMorgan",
+    "role": "2026-2027 Commercial & Investment Bank - Markets Equity Research - Part Time Analyst Internship",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Oracle Cloud)",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761733",
+    "date_posted": "2026-06-29",
+    "date_found": "2026-08-03",
+    "verification": "confirmed",
     "employment_type": "internship"
+  },
+  {
+    "company": "Bank of America",
+    "role": "Analyst/Associate - Equity Research, Restaurants",
+    "location": "New York, NY",
+    "salary": "$110,000 - $175,000",
+    "source": "Company Careers Page",
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26025049/analyst-associate-equity-research-restaurants-new-york-new-york-united-states",
+    "date_posted": "2026-07-20",
+    "date_found": "2026-08-03",
+    "verification": "confirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "Evercore",
+    "role": "Equity Research Associate or Senior Associate - SMID Cap Biotechnology (Evercore ISI)",
+    "location": "New York, NY",
+    "salary": "$110,000 - $175,000",
+    "source": "Company Careers Page (tal.net)",
+    "link": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-5/xf-52817eb611d7/candidate/so/pm/1/pl/3/opp/3201-Equity-Research-Associate-or-Senior-Associate-SMID-Cap-Biotechnology-Evercore-ISI-Copy/en-GB",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-03",
+    "verification": "confirmed",
+    "employment_type": "full-time"
   }
 ]
