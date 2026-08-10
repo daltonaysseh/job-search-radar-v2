@@ -102,19 +102,6 @@
     "employment_type": "full-time"
   },
   {
-    "company": "Wolfe Research",
-    "role": "Equity Research Associate - Enterprise Software",
-    "location": "New York, NY",
-    "salary": "not disclosed",
-    "source": "Company Careers Page (TrinetHire)",
-    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/103287-equity-research-associate-enterprise-software",
-    "date_posted": "date_unverified",
-    "date_found": "2026-07-31",
-    "verification": "unconfirmed",
-    "employment_type": "full-time",
-    "first_seen_unconfirmed": "2026-07-31"
-  },
-  {
     "company": "Third Bridge",
     "role": "Research Associate (Healthcare)",
     "location": "New York, NY",
@@ -126,18 +113,6 @@
     "verification": "unconfirmed",
     "employment_type": "full-time",
     "first_seen_unconfirmed": "2026-07-31"
-  },
-  {
-    "company": "KeyBanc Capital Markets",
-    "role": "Associate, Equity Research",
-    "location": "New York, NY (1301 Avenue of the Americas)",
-    "salary": "$71,000 - $125,000",
-    "source": "Company Careers Page (Workday)",
-    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-Equity-Research_R-41285",
-    "date_posted": "2026-07-30",
-    "date_found": "2026-07-31",
-    "verification": "confirmed",
-    "employment_type": "full-time"
   },
   {
     "company": "Stifel",
@@ -289,6 +264,45 @@
     "link": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-5/xf-52817eb611d7/candidate/so/pm/1/pl/3/opp/3201-Equity-Research-Associate-or-Senior-Associate-SMID-Cap-Biotechnology-Evercore-ISI-Copy/en-GB",
     "date_posted": "date_unverified",
     "date_found": "2026-08-03",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-10"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Research Associate - Medical Supplies & Devices",
+    "location": "New York, NY",
+    "salary": "$85,000 - $120,000",
+    "source": "Wolfe Research careers page",
+    "link": "https://www.wolferesearch.com/jobs/research-associate-medical-supplies-devices/",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-10",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-10"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Healthcare Facilities & Managed Care",
+    "location": "New York, NY",
+    "salary": "$100,000 - $130,000",
+    "source": "Talent.com (Wolfe Research posting)",
+    "link": "https://www.talent.com/view?id=608381162626745416",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-10",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-10"
+  },
+  {
+    "company": "Citigroup",
+    "role": "Equity Research Associate, Technology & Communications",
+    "location": "New York, NY",
+    "salary": "$121,200 - $181,800",
+    "source": "Company Careers Page (jobs.citi.com)",
+    "link": "https://jobs.citi.com/job/new-york/equity-research-associate-technology-and-communications/287/98904584208",
+    "date_posted": "2026-08-07",
+    "date_found": "2026-08-10",
     "verification": "confirmed",
     "employment_type": "full-time"
   }
