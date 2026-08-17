@@ -167,19 +167,6 @@
     "first_seen_unconfirmed": "2026-07-31"
   },
   {
-    "company": "Morgan Stanley",
-    "role": "Equity Research Summer Analyst Program (2027)",
-    "location": "New York, NY",
-    "salary": "$52.89/hour",
-    "source": "Company Careers Page (tal.net)",
-    "link": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20783-2027-Equity-Research-Summer-Analyst-Program-New-York/en-GB",
-    "date_posted": "date_unverified",
-    "date_found": "2026-07-31",
-    "verification": "unconfirmed",
-    "employment_type": "internship",
-    "first_seen_unconfirmed": "2026-07-31"
-  },
-  {
     "company": "JPMorgan",
     "role": "2027 Markets Summer Analyst Program - Research",
     "location": "New York, NY",
@@ -305,5 +292,82 @@
     "date_found": "2026-08-10",
     "verification": "confirmed",
     "employment_type": "full-time"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Life Science & Diagnostic Tools",
+    "location": "New York, NY",
+    "salary": "$95,000 - $115,000",
+    "source": "Wolfe Research careers page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/88294-equity-research-associate-life-science-diagnostic-tools",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-17",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-17"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Payments, Processors, and IT Services",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Wolfe Research careers page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/100328-equity-research-associate-payments-processors-and-it-services",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-17",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-17"
+  },
+  {
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Chemicals & Packaging",
+    "location": "New York, NY",
+    "salary": "$110,000 - $130,000",
+    "source": "Wolfe Research careers page (TrinetHire)",
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/103790-equity-research-associate-chemicals-packaging",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-17",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-17"
+  },
+  {
+    "company": "Stifel",
+    "role": "KBW Equity Research Associate I - Property & Casualty Insurance",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Company Careers Page (Stifel)",
+    "link": "https://join.stifel.com/jobs/7965?lang=en-us",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-17",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-17"
+  },
+  {
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate - Biotechnology (Healthcare Group)",
+    "location": "New York, NY (Hybrid)",
+    "salary": "$75,000 - $125,000",
+    "source": "Company Careers Page (Workday)",
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/Equity-Research-Associate---Biotechnology_R-100624",
+    "date_posted": "2026-08-10",
+    "date_found": "2026-08-17",
+    "verification": "confirmed",
+    "employment_type": "full-time"
+  },
+  {
+    "company": "AllianceBernstein",
+    "role": "Quant Research Associate - Bernstein Equity Research",
+    "location": "New York, New York",
+    "salary": "not disclosed",
+    "source": "AllianceBernstein Careers (talentify.io)",
+    "link": "https://alliancebernstein.talentify.io/job/quant-research-associate-bernstein-equity-research-new-york-new-york-alliancebernstein-r0007430",
+    "date_posted": "date_unverified",
+    "date_found": "2026-08-17",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-08-17"
   }
 ]
