@@ -946,5 +946,197 @@
     "company": "Morningstar",
     "role": "Associate Equity Research Analyst",
     "first_seen": "2026-08-17"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4913834007",
+    "company": "William Blair",
+    "role": "Research Associate, Global Equity (Healthcare) - added, tracked",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782862",
+    "company": "JPMorgan",
+    "role": "Asset Management Portfolio Management Program Analyst (Equities) - added, tracked",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/research-associate-campus-26000GPD-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein Research Associate (Campus) - added, tracked",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/summer-research-associate-campus-26000GP9-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein Summer Research Associate (Campus) - added, tracked (internship)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesCareers/job/Research-Associate---Banks--New-York-_R-0010645",
+    "company": "Raymond James",
+    "role": "Research Associate - Banks (New York) - mirror-sighted only (Built In NYC/JobLeads/Indeed); raymondjames.wd1 CXS blocked this session, mandatory live-search cross-check still pending - NOT added, re-check next run",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-IV--Equity-Research---Utilities_R-41622",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate IV, Equity Research - Utilities - rejected, requires 4+ years experience",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-II--Equity-Research---Cyber_R-41621",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate II, Equity Research - Cyber - rejected, requires 2+ years experience",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780602",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Semiconductors - Associate - rejected, 2-3 yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745261",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Retailing, Hardlines/Broadlines - Analyst - rejected, 2-3 yrs required despite Analyst title",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764729",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Security Software - Associate - rejected, 2-3 yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776371",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Large Cap Software - Associate - rejected, 2-3 yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753627",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Oil & Gas - VP - rejected, senior",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761775",
+    "company": "JPMorgan",
+    "role": "Asset Mgmt: Opening Market Insights Research Analyst - Associate - rejected, 3 yrs preferred",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-aerospace-and-defense-defense-tech-avp/13015/95104583024",
+    "company": "Barclays",
+    "role": "Equity Research - Aerospace and Defense/Defense Tech - AVP - rejected, senior",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-airlines-and-transportation-avp/13015/96889479840",
+    "company": "Barclays",
+    "role": "Equity Research - Airlines and Transportation - AVP - rejected, senior",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-biotech-financial-associate/13015/98199081984",
+    "company": "Barclays",
+    "role": "Equity Research - Biotech - Financial Associate - rejected, body text is AVP-level despite title",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-broker-dealers-and-asset-managers-avp/13015/97254028672",
+    "company": "Barclays",
+    "role": "Equity Research - Broker Dealers and Asset Managers - AVP - rejected, senior",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-software-avp/13015/86448250288",
+    "company": "Barclays",
+    "role": "Equity Research - Software - AVP - rejected, senior",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-analyst-information-services/287/99340959920",
+    "company": "Citigroup",
+    "role": "Equity Research Analyst - Information Services - rejected, 15+ yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-analyst-smid-biotech/287/99130359264",
+    "company": "Citigroup",
+    "role": "Equity Research Analyst - SMID Biotech - rejected, 15+ yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-associate-aerospace-and-defense/287/99461090976",
+    "company": "Citigroup",
+    "role": "Equity Research Associate - Aerospace and Defense - rejected, 5-8 yrs required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26013131",
+    "company": "Bank of America",
+    "role": "Analyst/Associate - Equity Research, Telecommunications - stale search-index entry, 404s on direct fetch",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1760-2026-Information-Technology-Analyst-and-Associate-New-York-Equity-Connectivity/en-GB",
+    "company": "Jefferies",
+    "role": "2026 Information Technology Analyst and Associate - Equity Connectivity - rejected, trading-technology/software role not equity research",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://www.ziprecruiter.com/jid=79bde921bc1aaf2e",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Brokers, Asset Managers and Exchanges - rejected, 1-3 yrs sell-side required",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/90777-equity-research-associate-vp-large-smid-cap-internet",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate/VP - Large & SMID Cap Internet - rejected, too senior (combined Associate/VP title)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4711670007",
+    "company": "William Blair",
+    "role": "Equity Research Intern - Summer 2026 - rejected, cycle already concluded/stale",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://careers-stifel.icims.com/jobs/7451/2026-summer-associate:-stifel-equity-research---new-york/job",
+    "company": "Stifel",
+    "role": "2026 Summer Associate: Stifel Equity Research - New York - stale, superseded by 2027 cohort (join.stifel.com/9092)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://careers-stifel.icims.com/jobs/7454/2026-summer-associate:-kbw-equity-research---new-york/job",
+    "company": "Stifel",
+    "role": "2026 Summer Associate: KBW Equity Research - New York - stale, superseded by 2027 cohort (icims/8665)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://join.stifel.com/jobs/9490?lang=en-us",
+    "company": "Stifel",
+    "role": "KBW Equity Research Associate III - Property & Casualty Insurance - rejected, too senior (Associate III)",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/R-29887",
+    "company": "KeyBanc Capital Markets",
+    "role": "2026 Equity Research Summer Analyst, New York - rejected, posting expired 01/26/2026",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/R-37706",
+    "company": "KeyBanc Capital Markets",
+    "role": "2027 Equity Research Summer Analyst, New York - rejected, application deadline (~Feb 2026) passed",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "link": "https://www.builtin.com/job/research-associate/6640833",
+    "company": "Neuberger Berman",
+    "role": "Research Associate (Consumer Staples), R0010512 - rejected, 2+ yrs buy/sell-side research required",
+    "first_seen": "2026-08-24"
   }
 ]
