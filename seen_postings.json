@@ -946,5 +946,890 @@
     "company": "Morningstar",
     "role": "Associate Equity Research Analyst",
     "first_seen": "2026-08-17"
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-internet-digital-media-new-york-at-raymond-james-4451269153",
+    "company": "Raymond James",
+    "role": "Equity Research Associate - Internet/Digital Media",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-biotechnology-at-jefferies-2998455401",
+    "company": "Jefferies",
+    "role": "Equity Research Associate - Biotechnology",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "link": "https://jobs.lever.co/dadavidson/18eacdf7-ac6b-4111-a815-9d4afd5259e3",
+    "company": "D.A. Davidson",
+    "role": "Class of 2028 Equity Capital Markets Research Intern",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "link": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+    "company": "Jane Street",
+    "role": "Fundamental Research Analyst (Internship)",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-IV--Equity-Research---Utilities_R-41622",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate, Equity Research - Utilities",
+    "first_seen": "2026-09-07",
+    "reason": "Requires 4+ years of experience in an analytical/financial role per live Workday CXS job text (too senior); confirmed live via keybank.wd5 CXS search"
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-II--Equity-Research---Cyber_R-41621",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate, Equity Research - Cybersecurity & Data",
+    "first_seen": "2026-09-07",
+    "reason": "Requires 2+ years of experience in an analytical/financial role per live Workday CXS job text (too senior); confirmed live via keybank.wd5 CXS search"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Intern---Biotechnology_R-100113",
+    "company": "Piper Sandler",
+    "role": "Equity Research Intern - Biotechnology",
+    "first_seen": "2026-09-07",
+    "reason": "Closed/expired - Workday page bootstrap data shows postingAvailable:false, and req does not appear in live pipersandler CXS jobs search"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Intern---FSG_R-100475-1",
+    "company": "Piper Sandler",
+    "role": "Equity Research Intern - Financial Services Group",
+    "first_seen": "2026-09-07",
+    "reason": "Closed/expired - Workday page bootstrap data shows postingAvailable:false, and req does not appear in live pipersandler CXS jobs search"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Associate---Financial-Services-Group_R-100089",
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate - Financial Services Group (R-100089)",
+    "first_seen": "2026-09-07",
+    "reason": "Closed/expired - Workday page bootstrap data shows postingAvailable:false, superseded by already-tracked R-100451; not in live CXS search results"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Associate---Biotechnology_R-100542",
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate - Biotechnology (R-100542)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong location - live CXS search confirms this req is based in Boston, MA, not NYC"
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-\u2013-software-crypto-tech-at-moffettnathanson-llc-2653896735",
+    "company": "MoffettNathanson",
+    "role": "Equity Research Associate \u2013 Software/Crypto Tech",
+    "first_seen": "2026-09-07",
+    "reason": "Requires at least 2 years of sell-side/buy-side equity research, asset management, investment banking, PE, or corporate/strategic development experience (too senior); NYC location otherwise matches"
+  },
+  {
+    "link": "https://www.ziprecruiter.com/c/Wolfe-Research/Job/Equity-Research-Associate-Brokers,-Asset-Managers-and-Exchanges/-in-New-York,NY?jid=79bde921bc1aaf2e",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Brokers, Asset Managers and Exchanges",
+    "first_seen": "2026-09-07",
+    "reason": "Explicitly seeks an 'experienced Associate (1-3 years of sell side experience)' - mandatory prior ER/sell-side experience, too senior"
+  },
+  {
+    "link": "https://www.ziprecruiter.com/c/Wolfe-Research/Job/Equity-Research-Associate-Homebuilding-&-Building-Products/-in-Remote,US?jid=a7083139d061f06a",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Homebuilding & Building Products",
+    "first_seen": "2026-09-07",
+    "reason": "Posting language mirrors Wolfe's 'experienced Associate' template (same as Brokers/AME role) implying mandatory prior experience; listed location field also shows Remote,US rather than confirmed NYC"
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/research-associate-consumer-2/",
+    "company": "Wolfe Research",
+    "role": "Research Associate - Consumer (wolferesearch.com mirror)",
+    "first_seen": "2026-09-07",
+    "reason": "Duplicate/re-mirror of the already-evaluated Consumer team Associate posting (trinethire req 104269, already in seen_postings) - same team/boilerplate, different URL"
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/research-associate-semiconductors/",
+    "company": "Wolfe Research",
+    "role": "Research Associate - Semiconductors",
+    "first_seen": "2026-09-07",
+    "reason": "Stale evergreen listing - mirrors show it last updated ~May 2025, well outside the 4-month posting window, and location is inconsistently reported (NY vs San Jose CA)"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4750441007",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Biotechnology Sector (gh_jid=4750441007)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong location - third-party mirror (jobsearcher.com) confirms this req is based in Chicago, IL, not NYC (distinct from the already-tracked gh_jid=4706242007 Biotechnology posting)"
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-associate-biotechnology/3391487",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Biotechnology (dup listing id 3391487)",
+    "first_seen": "2026-09-07",
+    "reason": "Requires 1-3 years of IB/equity research experience preferred (too senior) and location listed as Boston or New York (not confirmed NYC-only); duplicate re-listing of already-excluded Biotechnology posting (id 289773)"
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/research-equity-research-associate-biotechnology/7937304",
+    "company": "BTIG",
+    "role": "Research, Equity Research Associate, Biotechnology (dup listing id 7937304)",
+    "first_seen": "2026-09-07",
+    "reason": "Another re-listing of the same BTIG Biotechnology Associate opening (1-3 years IB/ER experience preferred, too senior) already excluded under other listing IDs"
+  },
+  {
+    "link": "https://builtin.com/job/data/equity-research-associate-reits/1612181",
+    "company": "BTIG",
+    "role": "Equity Research Associate, REITS (dup listing id 1612181)",
+    "first_seen": "2026-09-07",
+    "reason": "Duplicate re-listing of already-excluded REITs Associate posting (id 219496); requires 1-3 years of IB/equity research experience preferred (too senior)"
+  },
+  {
+    "link": "https://www.ihirechemists.com/jobs/view/515418879",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Fintech/Digital Assets",
+    "first_seen": "2026-09-07",
+    "reason": "Requires 1-3 years of IB/equity research experience preferred - matches BTIG's standard Associate template (too senior), same pattern as all other already-excluded BTIG ER associate roles"
+  },
+  {
+    "link": "https://talents.vaia.com/companies/needham-company/east-new-york/equity-research-associate-communications-and-networking-101224019/",
+    "company": "Needham & Company",
+    "role": "Equity Research Associate - Communications and Networking (vaia.com mirror)",
+    "first_seen": "2026-09-07",
+    "reason": "Duplicate mirror of already-excluded posting (bebee.com link in seen_postings); confirmed requires 2-4 years of experience (too senior)"
+  },
+  {
+    "link": "https://careers-stifel.icims.com/jobs/7451/2026-summer-associate:-stifel-equity-research---new-york/job",
+    "company": "Stifel",
+    "role": "2026 Summer Associate: Stifel Equity Research - New York",
+    "first_seen": "2026-09-07",
+    "reason": "Stale - this is the Summer 2026 internship cycle (posted ~April 2025), whose program start date has already passed as of this run (Sept 2026); superseded by already-tracked 2027 cycle postings (join.stifel.com/jobs/9092 and icims 8665)"
+  },
+  {
+    "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Equity-Research-Associate-Analyst---Technology---TRPIM_82066",
+    "company": "T. Rowe Price",
+    "role": "Equity Research Associate Analyst - Technology - TRPIM",
+    "first_seen": "2026-09-07",
+    "reason": "Location is Baltimore, MD (not NYC) despite salary table listing a NY band; confirmed via live CXS job detail fetch"
+  },
+  {
+    "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Small-Cap-Growth-Equity-Strategy-Associate-Analyst_82404",
+    "company": "T. Rowe Price",
+    "role": "Small-Cap Growth Equity Strategy Associate Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Location Baltimore, MD (not NYC), confirmed via live CXS location facet"
+  },
+  {
+    "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Washington-and-Regulatory-Research-Associate-Analyst_82154",
+    "company": "T. Rowe Price",
+    "role": "Washington and Regulatory Research Associate Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Location Baltimore, MD (not NYC), confirmed via live CXS location facet"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY-United-States/Investment-Analyst_R94687-2",
+    "company": "Wellington Management",
+    "role": "Investment Analyst (Private Investments)",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but role is Private Equity/Private Investments product support, not public equity research - wrong asset class per job description text"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Equity-Research-Associate---Industrials-Sector_R93414-1",
+    "company": "Wellington Management",
+    "role": "Equity Research Associate - Industrials Sector",
+    "first_seen": "2026-09-07",
+    "reason": "Location Boston, MA (not NYC)"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Equity-Research-Associate--Healthcare-Sector_R93716-1",
+    "company": "Wellington Management",
+    "role": "Equity Research Associate, Healthcare Sector",
+    "first_seen": "2026-09-07",
+    "reason": "Location Boston, MA (not NYC)"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Data-Science-Analyst--Equity-Research--Healthcare-Team_R94455-2",
+    "company": "Wellington Management",
+    "role": "Data Science Analyst, Equity Research, Healthcare Team",
+    "first_seen": "2026-09-07",
+    "reason": "Location Boston, MA (not NYC); also not a fundamental research analyst/associate title"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY-United-States/Associate--Private-Climate-Investing_R93552-1",
+    "company": "Wellington Management",
+    "role": "Associate, Private Climate Investing",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but private markets/climate investing, not public equity research"
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY-United-States/Associate--Secondaries--Venture-Growth-Evergreen_R94293",
+    "company": "Wellington Management",
+    "role": "Associate, Secondaries, Venture Growth Evergreen",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but private markets secondaries, not public equity research"
+  },
+  {
+    "link": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Chicago-IL/Senior-Research-Analyst_R0012433",
+    "company": "Neuberger Berman",
+    "role": "Senior Research Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Chicago, IL location (not NYC) and senior title"
+  },
+  {
+    "link": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Almanac-Realty-Group-Summer-2027-Internship_R0012519",
+    "company": "Neuberger Berman",
+    "role": "Almanac Realty Group Summer 2027 Internship",
+    "first_seen": "2026-09-07",
+    "reason": "NYC internship but real estate private equity, not equity/investment research specific"
+  },
+  {
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Fundamental-Research-Group-Associate--Financials-_JR5261",
+    "company": "Capital Group",
+    "role": "Fundamental Research Group Associate (Financials)",
+    "first_seen": "2026-09-07",
+    "reason": "Requires 2-5 years of experience per confirmed job text (WebSearch cross-referenced) - exceeds 0-1yr entry threshold"
+  },
+  {
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Quantitative-Research-Analyst_JR2636-1",
+    "company": "Capital Group",
+    "role": "Quantitative Research Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Title is quantitative research, not fundamental equity research/investment analyst; NYC location and experience requirement unconfirmable (capgroup.wd1 domain blocked this session), excluded per policy of not guessing"
+  },
+  {
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/Equity-Derivatives-Investment-Strategist_JR5397",
+    "company": "Capital Group",
+    "role": "Equity Derivatives Investment Strategist",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but title/role (derivatives strategist) does not match equity research analyst/research associate/investment analyst criteria"
+  },
+  {
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/ESG-Stewardship-Analyst_JR5800/apply/useMyLastApplication",
+    "company": "Capital Group",
+    "role": "ESG Stewardship Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but ESG stewardship, not equity research"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Equity-Research-Analyst---REITs_MFS-231814",
+    "company": "MFS Investment Management",
+    "role": "Equity Research Analyst - REITs",
+    "first_seen": "2026-09-07",
+    "reason": "Boston, MA location (not NYC) and requires 5+ years experience per confirmed sibling posting text"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Research-Analyst-Intern_MFS-231032",
+    "company": "MFS Investment Management",
+    "role": "Research Analyst Intern",
+    "first_seen": "2026-09-07",
+    "reason": "Boston, MA location (not NYC)"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Equity-Research-Associate-Intern_MFS-231164",
+    "company": "MFS Investment Management",
+    "role": "Equity Research Associate Intern",
+    "first_seen": "2026-09-07",
+    "reason": "Boston, MA (or Singapore) location per cross-referenced sources - not NYC"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/toronto/equity-research-associate_mfs-231624/apply",
+    "company": "MFS Investment Management",
+    "role": "Equity Research Associate",
+    "first_seen": "2026-09-07",
+    "reason": "Toronto, Canada location (not NYC)"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Toronto/Equity-Research-Associate-Intern--Winter-2026-Intern-_MFS-231316",
+    "company": "MFS Investment Management",
+    "role": "Equity Research Associate Intern (Winter 2026 Intern)",
+    "first_seen": "2026-09-07",
+    "reason": "Toronto, Canada location (not NYC)"
+  },
+  {
+    "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Equity-Risk-Analyst_R-11139",
+    "company": "Invesco",
+    "role": "Equity Risk Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Title is risk analyst, not equity research analyst/research associate/investment analyst"
+  },
+  {
+    "link": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Associate-Portfolio-Manager_R-13142",
+    "company": "Invesco",
+    "role": "Associate Portfolio Manager",
+    "first_seen": "2026-09-07",
+    "reason": "NYC location but portfolio manager title, not entry-level research analyst/associate"
+  },
+  {
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Jobs-ClearBridge/job/Equity-Research-Analyst---Financial-Sector_856765",
+    "company": "Franklin Templeton",
+    "role": "Equity Research Analyst - Financial Sector (ClearBridge)",
+    "first_seen": "2026-09-07",
+    "reason": "ClearBridge 'Equity Research Analyst' (non-Associate) titles confirmed via cross-referenced sibling posting to require 3-10 years experience - too senior"
+  },
+  {
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Jobs-ClearBridge/job/Analyst-Sr--Research_865937",
+    "company": "Franklin Templeton",
+    "role": "Equity Research Analyst - Technology & Media Sector (ClearBridge)",
+    "first_seen": "2026-09-07",
+    "reason": "Job req internally titled 'Analyst, Sr Research' - senior title/track, consistent with ClearBridge sibling postings requiring 3-10 years"
+  },
+  {
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Equity-Research-Analyst----Industrials-Sector-_860643",
+    "company": "Franklin Templeton",
+    "role": "Equity Research Analyst - (Industrials Sector)",
+    "first_seen": "2026-09-07",
+    "reason": "Confirmed via Built In NYC mirror text: requires 3-10 years of equity research experience covering industrials - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780772",
+    "company": "JPMorgan",
+    "role": "US Equity Research - SMid Technology - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY but sector-Associate template requires 2-3 years experience (confirmed on identical sibling reqs); posted 2026-08-31"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780602",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Semiconductors - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires 'Two to three years of experience in equity research and/or investment banking' - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745261",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Retailing - Hardlines/Broadlines - Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; despite 'Analyst' in title, body text and required quals confirm 'Two to three years of experience' required - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771944",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Homebuilding & Building Products - Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires 'Two to three years of experience' - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780768",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Retailing - Hardlines/Broadlines - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; same 2-3yr sector-Associate template as sibling reqs - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781026",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Retailing - Broadlines / Specialty - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; same 2-3yr sector-Associate template as sibling reqs - too senior"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776371",
+    "company": "JPMorgan",
+    "role": "US Equity Research - Large Cap Software - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; same 2-3yr sector-Associate template as sibling reqs - too senior"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26007865/analyst-associate-equity-research-multi-industrials-new-york-new-york-united-states",
+    "company": "Bank of America",
+    "role": "Analyst/Associate: Equity Research, Multi-Industrials",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed/removed - live fetch returns BofA's soft-404 'cannot be found' page"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26015698/equity-research-analyst-associate-transportation-shipping-new-york-new-york-united-states",
+    "company": "Bank of America",
+    "role": "Equity Research Analyst/Associate - Transportation & Shipping",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed/removed - live fetch returns BofA's soft-404 'cannot be found' page"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26002970/analyst-associate-software-equity-research-new-york-new-york-united-states",
+    "company": "Bank of America",
+    "role": "Analyst/Associate, Software Equity Research",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed/removed - live fetch returns BofA's soft-404 'cannot be found' page"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-analyst-life-science-tools/287/100141218480",
+    "company": "Citigroup",
+    "role": "Equity Research Analyst / Life Science Tools",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY but confirmed via direct fetch: 'Recommended Qualifications: 6-10 years relevant experience', salary $175K-$250K - far too senior despite 'Analyst' title"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-senior-associate-fintech/287/99213748864",
+    "company": "Citigroup",
+    "role": "Equity Research Senior Associate - FinTech",
+    "first_seen": "2026-09-07",
+    "reason": "Senior Associate title/level, too senior"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-senior-associate-life-science-tools/287/100186080144",
+    "company": "Citigroup",
+    "role": "Equity Research Senior Associate / Life Science Tools",
+    "first_seen": "2026-09-07",
+    "reason": "Senior Associate title/level, too senior"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-senior-associate-smid-biotech-assistant-vice-president/287/98473580528",
+    "company": "Citigroup",
+    "role": "Equity Research Senior Associate, SMID Biotech (Assistant Vice President)",
+    "first_seen": "2026-09-07",
+    "reason": "Senior Associate/AVP title/level, too senior"
+  },
+  {
+    "link": "https://higher.gs.com/roles/162231",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Regional Banks and Consumer Finance, Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY, salary $150K-$225K - GS GIR 'Associate' lateral-hire tier requires 2-5 years experience (consistent with already-seen New Associate program requirement), too senior"
+  },
+  {
+    "link": "https://higher.gs.com/roles/162847",
+    "company": "Goldman Sachs",
+    "role": "Asset & Wealth Management, Fixed Income, Emerging Markets Corporate Credit Research - Analyst, New York",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY but fixed income/credit research, not equity research - wrong asset class"
+  },
+  {
+    "link": "https://higher.gs.com/roles/180771",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Life Insurance Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY, salary $150K-$225K Associate tier - too senior"
+  },
+  {
+    "link": "https://higher.gs.com/roles/177968",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Medical Technology & Healthcare IT, Associate",
+    "first_seen": "2026-09-07",
+    "reason": "Associate tier, too senior (consistent GS GIR Associate salary/experience band)"
+  },
+  {
+    "link": "https://higher.gs.com/roles/166446",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Retail-Softlines, Associate",
+    "first_seen": "2026-09-07",
+    "reason": "Associate tier, too senior"
+  },
+  {
+    "link": "https://higher.gs.com/roles/147103",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research Associate, Beverages, HPC, Tobacco and Convenience Stores",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY, Associate tier - too senior"
+  },
+  {
+    "link": "https://higher.gs.com/roles/162903",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Semiconductors & IT Services, SF",
+    "first_seen": "2026-09-07",
+    "reason": "Location San Francisco, not NYC"
+  },
+  {
+    "link": "https://higher.gs.com/roles/162901",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Clean Energy, Associate, SF",
+    "first_seen": "2026-09-07",
+    "reason": "Location San Francisco, not NYC"
+  },
+  {
+    "link": "https://higher.gs.com/roles/176247",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research-Tactical Research Group -Analyst-Bengaluru",
+    "first_seen": "2026-09-07",
+    "reason": "Location Bengaluru, India, not NYC"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549798941717",
+    "company": "Morgan Stanley",
+    "role": "Equity Research - Analyst/Associate, Software (New York)",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed via direct API fetch: 'candidate will have 1 to 3 years of professional experience' - exceeds 0-1yr entry threshold (consistent with prior BofA 1-3yr exclusion precedent)"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549781989640",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Rotational Analyst/Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires '1-5 (ideally 2 or more) years of professional experience' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549782443198",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Associate - Semiconductors",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires 'Ideally 1-3 years of professional experience' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549777866687",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Analyst - Internet - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires '2 to 5 years of professional experience' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549777558438",
+    "company": "Morgan Stanley",
+    "role": "PSG Investment Research Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires '2-5 years experience in financial markets/economics' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549777741616",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Analyst - Metals & Mining - Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires '2 to 4 years of professional experience' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549798885345",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Associate - Consumer",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires 'At least 2 years of professional experience in equity research or investment banking' - too senior"
+  },
+  {
+    "link": "https://morganstanley.eightfold.ai/careers/job/549774881280",
+    "company": "Morgan Stanley",
+    "role": "Equity Research - Software Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY; confirmed requires '2 to 4 years of professional experience' - too senior"
+  },
+  {
+    "link": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/2927-2027-Equities-Equity-Research-Summer-Intern-Program-New-York/en-GB",
+    "company": "Evercore",
+    "role": "2027 Equities: Equity Research Summer Intern Program - New York",
+    "first_seen": "2026-09-07",
+    "reason": "Application deadline already passed (confirmed via page meta: 'Application Deadline: 2/1/26, 11:55 PM', today is 2026-09-07) - closed per internship-deadline policy"
+  },
+  {
+    "link": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-5/xf-cf676607ff1e/candidate/so/pm/1/pl/3/opp/2222-Equity-Research-Associate-Senior-Associate-MedTech-Tools/en-GB",
+    "company": "Evercore",
+    "role": "Equity Research Associate / Senior Associate - MedTech/Tools",
+    "first_seen": "2026-09-07",
+    "reason": "Confirmed via direct fetch: requires '1 to 5 years of experience' - exceeds entry threshold, mixed Associate/Senior Associate track"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-biotech-financial-associate/13015/98199081984",
+    "company": "Barclays",
+    "role": "Equity Research Biotech, Financial Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY, posted 2026-09-03; no explicit years stated but salary band ($125K-$175K) and required 'Biotech sector' domain expertise match the same grade/template as Barclays' AVP-level equity research roles (a non-entry lateral tier distinct from Barclays' own Equity Research Analyst Graduate Program) - excluded as not confirmed entry-level"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-aerospace-and-defense-defense-tech-avp/13015/95104583024",
+    "company": "Barclays",
+    "role": "Equity Research Aerospace & Defense/Defense Tech, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "AVP (Assistant Vice President) tier requiring prior sector experience per job text - not entry-level"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-software-avp/13015/86448250288",
+    "company": "Barclays",
+    "role": "Equity Research Software, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-avp/13015/89157723872",
+    "company": "Barclays",
+    "role": "Equity Research Consumer, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-broker-dealers-and-asset-managers-avp/13015/97254028672",
+    "company": "Barclays",
+    "role": "Equity Research Broker/Dealers and Asset Managers, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-airlines-and-transportation-avp/13015/94182442144",
+    "company": "Barclays",
+    "role": "Equity Research Airlines and Transportation, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-business-services-avp/13015/94310401136",
+    "company": "Barclays",
+    "role": "Equity Research Business Services, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-utilities-avp/13015/94791331248",
+    "company": "Barclays",
+    "role": "Equity Research Utilities, AVP",
+    "first_seen": "2026-09-07",
+    "reason": "Posting closed (404 on direct fetch)"
+  },
+  {
+    "link": "https://jefferies.tal.net/candidate/so/pm/1/pl/2/opp/1400-Class-of-2027-U-S-Stock-Pitch-Competition-Equity-Research-New-York/en-GB",
+    "company": "Jefferies",
+    "role": "Class of 2027: U.S. Stock Pitch Competition, Equity Research - New York",
+    "first_seen": "2026-09-07",
+    "reason": "A recruiting/pipeline competition event, not itself an internship or job posting"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/summer-research-associate-campus-26000GP9-en",
+    "company": "AllianceBernstein",
+    "role": "Summer Research Associate (Campus) [Bernstein]",
+    "first_seen": "2026-09-07",
+    "reason": "Cross-referenced (Prosple) confirms 'Summer Research (Campus) Associate - Bernstein (Jun 2026)' - start date June 2026 has already passed relative to today (2026-09-07), treated as closed per internship start-date policy"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/bernstein-senior-research-associate-us-payments-processors-and-it-services-26000DQV-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein Senior Research Associate - US Payments, Processors and IT Services",
+    "first_seen": "2026-09-07",
+    "reason": "Senior Research Associate title/level, salary $150K-$180K - too senior"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/autonomous-senior-research-associate-us-capital-markets-260004ER-en",
+    "company": "AllianceBernstein",
+    "role": "Autonomous Senior Research Associate - US Capital Markets",
+    "first_seen": "2026-09-07",
+    "reason": "Senior Research Associate title/level - too senior"
+  },
+  {
+    "link": "https://careers.blackrock.com/job/mumbai/fundamental-equity-research-portfolio-management-group-associate-vice-president/45831/84947334288",
+    "company": "BlackRock",
+    "role": "Fundamental Equity Research, Portfolio Management Group, Associate/Vice President",
+    "first_seen": "2026-09-07",
+    "reason": "Location Mumbai, not NYC"
+  },
+  {
+    "link": "https://careers.blackrock.com/job/new-york/vice-president-fundamental-equity-research-us-real-estate-securities/45831/79789096080",
+    "company": "BlackRock",
+    "role": "Vice President, Fundamental Equity Research - US Real Estate Securities",
+    "first_seen": "2026-09-07",
+    "reason": "Vice President title - too senior"
+  },
+  {
+    "link": "https://www.themuse.com/jobs/blackrock/fundamental-equities-research-analyst-income-value-investment-team-associate",
+    "company": "BlackRock",
+    "role": "Fundamental Equities - Research Analyst (Income & Value Investment Team), Associate",
+    "first_seen": "2026-09-07",
+    "reason": "New York, NY but Associate/VP mixed level, salary $155K-$210K - too senior, not entry-level"
+  },
+  {
+    "link": "https://www.themuse.com/jobs/blackrock/equity-research-analyst-global-allocation-director-energy-materials-and-utility",
+    "company": "BlackRock",
+    "role": "Equity Research Analyst, Global Allocation - Director (Energy, Materials and Utility)",
+    "first_seen": "2026-09-07",
+    "reason": "Director title - too senior"
+  },
+  {
+    "link": "https://jobs.fidelity.com/en/jobs/2129929/equity-research-analyst/",
+    "company": "Fidelity Investments",
+    "role": "Equity Research Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Location London, not NYC"
+  },
+  {
+    "link": "https://jobs.fidelity.com/en/jobs/2122513/quantitative-equity-research-analyst/",
+    "company": "Fidelity Investments",
+    "role": "Quantitative Equity Research Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Location Boston, MA, not NYC"
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/69fb1f0818b94b2515bdf623",
+    "company": "Hedgeye Risk Management",
+    "role": "Analyst, Research (future opportunity)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong location - confirmed Stamford, CT (multiple LinkedIn/Glassdoor/ZipRecruiter listings), not NYC."
+  },
+  {
+    "link": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-research-summer-analyst/7895583",
+    "company": "AQR Capital Management",
+    "role": "2027 Research Summer Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong location - Greenwich, CT, not NYC."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a90453c2e254e06fb9efdf3",
+    "company": "AQR Capital Management",
+    "role": "2027 Portfolio Finance Summer Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - portfolio finance/fund operations, not equity/investment research."
+  },
+  {
+    "link": "https://www.builtinla.com/job/life-science-analyst-sr-analyst-la-bay-nyc/8981815",
+    "company": "DeciBio",
+    "role": "Life Science Analyst & Sr. Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - healthcare strategic-consulting/market-intelligence analyst role, not an equity-research or buy-side investment-research firm/role."
+  },
+  {
+    "link": "https://econugblog.wordpress.com/2026/09/04/2027-financial-analyst-class-of-2027-portfolio-valuation-and-fund-advisory-services-houlihan-lokey/",
+    "company": "Houlihan Lokey",
+    "role": "Summer 2027 Research Intern, Portfolio Valuation",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - fund/portfolio valuation advisory for illiquid assets, not public-equity/investment research despite 'Research' in the title."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a9654083843db015990a594",
+    "company": "Federal Reserve Bank of San Francisco",
+    "role": "2027 Summer Intern - Markets Group",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - central bank markets group internship, not equity research/buy-side research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a95f1704c22023a079370e2",
+    "company": "PGIM (Prudential)",
+    "role": "2027 Real Estate, Sophomore Externship Program",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - real estate externship, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a9658becabc9f6703e1d154",
+    "company": "Eastdil Secured",
+    "role": "2027 U.S. Analyst Program",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - real estate investment banking analyst program, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a90e218a198864866763753",
+    "company": "Standard Chartered",
+    "role": "Markets Intern US 2027",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - trading/markets internship, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a8c3f5bd34f700f87fcf67d",
+    "company": "BNY",
+    "role": "2027 BNY Summer Internship Program - Client Coverage",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - client coverage/sales, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a4eae160ea38951a6ff4185",
+    "company": "Flow Traders",
+    "role": "Quantitative Trading Intern Summer 2027",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - proprietary trading internship, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a9dd30cdacf777321a902ae",
+    "company": "Nomura",
+    "role": "PB Trade Support Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - prime brokerage trade support, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a5ea201f29acc1a11748c7c",
+    "company": "Federal Reserve Bank of New York",
+    "role": "Capital Markets Trading Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - central bank capital markets/trading desk role, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a9b3a72d5ff1f3f1c39e503",
+    "company": "Royal Bank of Canada",
+    "role": "2027 Capital Markets, AidenEdge Program Winter Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - broad capital markets rotational program, not specifically equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a8814aae8b6601d129059d0",
+    "company": "Citadel",
+    "role": "Trader: Fixed Income & Macro - Intern (US)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - trading internship, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a90749f8ffa38557e6cd075",
+    "company": "BlueCrest Capital Management",
+    "role": "Middle Office Trade Support Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - operations/trade support, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a95b802cabc9f6703e1964a",
+    "company": "ION",
+    "role": "Trade Desk Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type and location (Jersey City, NJ) - trade desk support, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a99c7c2551435518ebf10d8",
+    "company": "CPP Investment Board",
+    "role": "Associate, Secondaries",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - private equity secondaries investing, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a06ab6ff8b6307b-citi",
+    "company": "Citigroup",
+    "role": "Various Full-Time/Wealth/Consumer Cards Analyst Programs (multiple emails, non-research)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - general banking/wealth/consumer analyst programs, not equity research (Citigroup's actual Equity Research reqs are already tracked separately in postings.json)."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a90864ba198864866761a1d",
+    "company": "DV Trading",
+    "role": "Trading Intern - Summer 2027 (DV Commodities)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - commodities trading internship, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a011a02c76447c0-madison",
+    "company": "Madison International Realty",
+    "role": "2027 Investments Summer Internship",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - real estate private equity, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a063235626d1da3-swissre",
+    "company": "Swiss Re",
+    "role": "Investment Analyst, Financial Markets Program",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - general insurance-company investment/markets rotational program, not equity-research-specific."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a0494dbd9e7f0aa-cla",
+    "company": "CLA (CliftonLarsonAllen)",
+    "role": "Accounting Analyst (CAAS - Nonprofit Industry)",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - accounting, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a040b519d6ac334-wes",
+    "company": "Women Empowered For Success (WES)",
+    "role": "Finance Budget Coordinator",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - nonprofit finance/budgeting, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a04e41234af959f-jetblue",
+    "company": "JetBlue",
+    "role": "Associate Analyst Revenue Management",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - airline revenue management, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a0588311a14bf1e-ms",
+    "company": "Morgan Stanley",
+    "role": "Alternative Investments Client Solutions - Fund Activity Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - fund administration/client solutions, not equity research."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a01fcc138eaf85f-blackrock",
+    "company": "BlackRock",
+    "role": "2027 Full-Time Analyst Program - AMRS",
+    "first_seen": "2026-09-07",
+    "reason": "Already tracked in postings.json (BlackRock 2027 Full-Time Analyst Program - AMRS) - duplicate, not re-added."
+  },
+  {
+    "link": "https://jobright.ai/jobs/info/6a0774abe5ef0993-townhouse",
+    "company": "Townhouse Partners",
+    "role": "Commercial Real Estate Analyst",
+    "first_seen": "2026-09-07",
+    "reason": "Wrong role type - commercial real estate, not equity research."
+  },
+  {
+    "link": "n/a - generic Scotiabank Talent Community notification, no specific job title given",
+    "company": "Scotiabank",
+    "role": "(generic 'new jobs posted' notification, no title)",
+    "first_seen": "2026-09-07",
+    "reason": "Not a specific job listing - generic talent-community digest email with no identifiable role to evaluate."
   }
 ]

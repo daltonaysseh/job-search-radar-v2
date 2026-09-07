@@ -90,18 +90,6 @@
     "employment_type": "full-time"
   },
   {
-    "company": "KeyBanc Capital Markets",
-    "role": "Equity Research Associate - Oil & Gas",
-    "location": "New York, NY",
-    "salary": "$80,000 - $150,000",
-    "source": "Company Careers Page (Workday)",
-    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Equity-Research-Associate---Oil---Gas_R-40840",
-    "date_posted": "2026-07-28",
-    "date_found": "2026-07-30",
-    "verification": "confirmed",
-    "employment_type": "full-time"
-  },
-  {
     "company": "Third Bridge",
     "role": "Research Associate (Healthcare)",
     "location": "New York, NY",
@@ -251,9 +239,8 @@
     "link": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-5/xf-52817eb611d7/candidate/so/pm/1/pl/3/opp/3201-Equity-Research-Associate-or-Senior-Associate-SMID-Cap-Biotechnology-Evercore-ISI-Copy/en-GB",
     "date_posted": "date_unverified",
     "date_found": "2026-08-03",
-    "verification": "unconfirmed",
-    "employment_type": "full-time",
-    "first_seen_unconfirmed": "2026-08-10"
+    "verification": "confirmed",
+    "employment_type": "full-time"
   },
   {
     "company": "Wolfe Research",
@@ -280,57 +267,6 @@
     "verification": "unconfirmed",
     "employment_type": "full-time",
     "first_seen_unconfirmed": "2026-08-10"
-  },
-  {
-    "company": "Citigroup",
-    "role": "Equity Research Associate, Technology & Communications",
-    "location": "New York, NY",
-    "salary": "$121,200 - $181,800",
-    "source": "Company Careers Page (jobs.citi.com)",
-    "link": "https://jobs.citi.com/job/new-york/equity-research-associate-technology-and-communications/287/98904584208",
-    "date_posted": "2026-08-07",
-    "date_found": "2026-08-10",
-    "verification": "confirmed",
-    "employment_type": "full-time"
-  },
-  {
-    "company": "Wolfe Research",
-    "role": "Equity Research Associate - Life Science & Diagnostic Tools",
-    "location": "New York, NY",
-    "salary": "$95,000 - $115,000",
-    "source": "Wolfe Research careers page (TrinetHire)",
-    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/88294-equity-research-associate-life-science-diagnostic-tools",
-    "date_posted": "date_unverified",
-    "date_found": "2026-08-17",
-    "verification": "unconfirmed",
-    "employment_type": "full-time",
-    "first_seen_unconfirmed": "2026-08-17"
-  },
-  {
-    "company": "Wolfe Research",
-    "role": "Equity Research Associate - Payments, Processors, and IT Services",
-    "location": "New York, NY",
-    "salary": "not disclosed",
-    "source": "Wolfe Research careers page (TrinetHire)",
-    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/100328-equity-research-associate-payments-processors-and-it-services",
-    "date_posted": "date_unverified",
-    "date_found": "2026-08-17",
-    "verification": "unconfirmed",
-    "employment_type": "full-time",
-    "first_seen_unconfirmed": "2026-08-17"
-  },
-  {
-    "company": "Wolfe Research",
-    "role": "Equity Research Associate - Chemicals & Packaging",
-    "location": "New York, NY",
-    "salary": "$110,000 - $130,000",
-    "source": "Wolfe Research careers page (TrinetHire)",
-    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/103790-equity-research-associate-chemicals-packaging",
-    "date_posted": "date_unverified",
-    "date_found": "2026-08-17",
-    "verification": "unconfirmed",
-    "employment_type": "full-time",
-    "first_seen_unconfirmed": "2026-08-17"
   },
   {
     "company": "Stifel",
@@ -369,5 +305,57 @@
     "verification": "unconfirmed",
     "employment_type": "full-time",
     "first_seen_unconfirmed": "2026-08-17"
+  },
+  {
+    "company": "Raymond James",
+    "role": "Equity Research Associate - Internet/Digital Media",
+    "location": "New York, NY",
+    "salary": "$80,000 - $105,000",
+    "source": "LinkedIn (Raymond James posting)",
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-internet-digital-media-new-york-at-raymond-james-4451269153",
+    "date_posted": "date_unverified",
+    "date_found": "2026-09-07",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-09-07"
+  },
+  {
+    "company": "Jefferies",
+    "role": "Equity Research Associate - Biotechnology",
+    "location": "New York, NY",
+    "salary": "$100,000 - $120,000",
+    "source": "Jobright.ai job alert email (linking to LinkedIn posting)",
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-biotechnology-at-jefferies-2998455401",
+    "date_posted": "date_unverified",
+    "date_found": "2026-09-07",
+    "verification": "unconfirmed",
+    "employment_type": "full-time",
+    "first_seen_unconfirmed": "2026-09-07"
+  },
+  {
+    "company": "D.A. Davidson",
+    "role": "Class of 2028 Equity Capital Markets Research Intern",
+    "location": "New York, NY",
+    "salary": "$25/hour",
+    "source": "Jobright.ai job alert email (linking to company Lever posting)",
+    "link": "https://jobs.lever.co/dadavidson/18eacdf7-ac6b-4111-a815-9d4afd5259e3",
+    "date_posted": "date_unverified",
+    "date_found": "2026-09-07",
+    "verification": "unconfirmed",
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-09-07"
+  },
+  {
+    "company": "Jane Street",
+    "role": "Fundamental Research Analyst (Internship)",
+    "location": "New York, NY",
+    "salary": "not disclosed",
+    "source": "Jobright.ai job alert email (linking to company careers page)",
+    "link": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+    "date_posted": "date_unverified",
+    "date_found": "2026-09-07",
+    "verification": "unconfirmed",
+    "employment_type": "internship",
+    "first_seen_unconfirmed": "2026-09-07"
   }
 ]
