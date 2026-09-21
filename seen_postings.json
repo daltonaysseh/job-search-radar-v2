@@ -946,5 +946,488 @@
     "company": "Morningstar",
     "role": "Associate Equity Research Analyst",
     "first_seen": "2026-08-17"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4750441007",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Biotechnology Sector",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Chicago-based, not NYC."
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=5015129007",
+    "company": "William Blair",
+    "role": "Equity Research Associate - BioTech",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: confirmed Chicago-based, not NYC."
+  },
+  {
+    "link": "https://www.williamblair.com/careers/job-description?gh_jid=4591701007",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Consumer Sector",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: confirmed Chicago, IL location, not NYC."
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4913057007",
+    "company": "William Blair",
+    "role": "Research Analyst - US Value Equity (Technology)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: buy-side role on Chicago-HQ'd team, not NYC."
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=5078804007",
+    "company": "William Blair",
+    "role": "Equity Research Intern - Summer 2027",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: internship exempt from experience filter but no source confirmed NYC placement; excluded per strict-NYC rule."
+  },
+  {
+    "link": "https://zapply.jobs/jobs/67be3c0a-d3a4-4d9b-ae94-910f746c7a2c/",
+    "company": "Raymond James",
+    "role": "Equity Research Associate - Internet/Digital Media (New York)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 13 months to 3 years of general experience."
+  },
+  {
+    "link": "https://join.stifel.com/jobs/9490?lang=en-us",
+    "company": "Stifel",
+    "role": "KBW Equity Research Associate III - Property & Casualty Insurance",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 'Associate III' tier signals senior/experienced level."
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/8606379002",
+    "company": "BTIG",
+    "role": "Equity Research, Analyst/Associate, Consumer",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 1-4 years in IB or equity research."
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/8060700002",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Energy & Infrastructure",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 1-4 years in IB or equity research."
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/7681371002",
+    "company": "BTIG",
+    "role": "Research, Equity Research Associate, Biotechnology",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 1-3 years experience."
+  },
+  {
+    "link": "https://startup.jobs/equity-research-associate-healthcare-diagnostics-life-science-tools-btig-3891579",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Healthcare, Diagnostics, Life Science Tools",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires one to three years' experience."
+  },
+  {
+    "link": "https://builtin.com/job/2026-summer-internship-program/6669732",
+    "company": "BTIG",
+    "role": "2026 Summer Internship Program",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: broad firm-wide rotational internship, not equity-research-specific."
+  },
+  {
+    "link": "https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Milwaukee/Internship---Equity-Research-Analyst--Summer-2027-_R20251244-2",
+    "company": "Baird",
+    "role": "Internship - Equity Research Analyst (Summer 2027)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: confirmed Milwaukee, WI location, not NYC."
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/research-associate-content-library-healthcare-at-third-bridge-group-4417155867",
+    "company": "Third Bridge",
+    "role": "Research Associate, Content Library - Healthcare",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://careers.thirdbridge.com/jobs/associate-in-new-york.2450",
+    "company": "Third Bridge",
+    "role": "Associate, New York (Public Equities & Credit Clients)",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://www.indeed.com/viewjob?jk=f31883c9dfb73289",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - SMID Biotechnology",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://www.ziprecruiter.com/c/Wolfe-Research/Job/Equity-Research-Associate-Brokers,-Asset-Managers-and-Exchanges/-in-New-York,NY?jid=79bde921bc1aaf2e",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Brokers, Asset Managers and Exchanges",
+    "first_seen": "2026-09-21",
+    "note": "rejected: requires 1-3 years sell-side experience."
+  },
+  {
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/95207-equity-research-associate-oil-gas-houston",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Oil & Gas (Houston)",
+    "first_seen": "2026-09-21",
+    "note": "rejected: Houston, TX location, not NYC."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/research-associate-semiconductors/",
+    "company": "Wolfe Research",
+    "role": "Research Associate - Semiconductors",
+    "first_seen": "2026-09-21",
+    "note": "rejected: requires 1-3 years sell-side experience."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/associate-metals-mining-2/",
+    "company": "Wolfe Research",
+    "role": "Associate, Metals & Mining",
+    "first_seen": "2026-09-21",
+    "note": "rejected: requires 1-3 years sell-side experience preferred."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/research-associate-large-smid-cap-internet/",
+    "company": "Wolfe Research",
+    "role": "Research Associate - Large & SMID Cap Internet",
+    "first_seen": "2026-09-21",
+    "note": "rejected: could not confirm qualifications text; likely outside 4-month window."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/administrative-assistant-research/",
+    "company": "Wolfe Research",
+    "role": "Administrative Assistant, Research",
+    "first_seen": "2026-09-21",
+    "note": "rejected: title mismatch, not a research role."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/equity-sales-associate-quantitative-sales/",
+    "company": "Wolfe Research",
+    "role": "Equity Sales Associate - Quantitative Sales",
+    "first_seen": "2026-09-21",
+    "note": "rejected: title mismatch, sales not research."
+  },
+  {
+    "link": "https://www.wolferesearch.com/jobs/product-management-assistant/",
+    "company": "Wolfe Research",
+    "role": "Product Management Assistant",
+    "first_seen": "2026-09-21",
+    "note": "rejected: title mismatch, not a research role."
+  },
+  {
+    "link": "https://uk.linkedin.com/jobs/view/research-associate-content-library-2026-at-third-bridge-group-4321476658",
+    "company": "Third Bridge",
+    "role": "Research Associate, Content Library (general, non-healthcare)",
+    "first_seen": "2026-09-21",
+    "note": "rejected: posted 2026-01-26, outside 4-month window."
+  },
+  {
+    "link": "https://www.thirdbridge.com/en-us/vacancies/Research-Associate-Library.744000117825907",
+    "company": "Third Bridge",
+    "role": "Research Associate, Library",
+    "first_seen": "2026-09-21",
+    "note": "rejected: posted ~2026-04-27, outside 4-month window; appears UK-oriented."
+  },
+  {
+    "link": "https://www.edisongroup.com/careers/director-investor-relations/",
+    "company": "Edison Group",
+    "role": "Director, Investor Relations",
+    "first_seen": "2026-09-21",
+    "note": "rejected: title/seniority mismatch, not entry-level."
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-\u2013-software-crypto-tech-at-moffettnathanson-llc-2653896735",
+    "company": "MoffettNathanson",
+    "role": "Equity Research Associate \u2013 Software/Crypto Tech",
+    "first_seen": "2026-09-21",
+    "note": "rejected: typically requires 2+ years; possibly stale listing."
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-IV--Equity-Research---Utilities_R-41622",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate, Equity Research - Utilities",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 4+ years experience."
+  },
+  {
+    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/New-York-NY/Associate-II--Equity-Research---Cyber_R-41621",
+    "company": "KeyBanc Capital Markets",
+    "role": "Associate, Equity Research - Cybersecurity & Data",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 2+ years experience."
+  },
+  {
+    "link": "https://jobs.solana.com/companies/fidelity/jobs/44440312-equity-research-associate-internship-summer-2026",
+    "company": "Fidelity Investments",
+    "role": "Equity Research Associate Internship - Summer 2026 (mirror)",
+    "first_seen": "2026-09-21",
+    "note": "Mirror of already-tracked/rejected Fidelity program; confirmed no longer accepting applications."
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-associate-financials/8580686",
+    "company": "Capital Group",
+    "role": "Equity Research Associate (Financials) [mirror]",
+    "first_seen": "2026-09-21",
+    "note": "Mirror of already-seen Capital Group req JR6288, previously rejected (2-5 yrs required)."
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-associate/10209136",
+    "company": "Capital Group",
+    "role": "Equity Research Associate [mirror]",
+    "first_seen": "2026-09-21",
+    "note": "Mirror of already-seen Capital Group req JR4695, previously rejected (2-5 yrs required)."
+  },
+  {
+    "link": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY-United-States/Investment-Analyst_R94687-2",
+    "company": "Wellington Management",
+    "role": "Investment Analyst (Private Investments)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Private Investments/PE support role, not public-equities research."
+  },
+  {
+    "link": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/Chicago-IL/Senior-Research-Analyst_R0012433",
+    "company": "Neuberger Berman",
+    "role": "Senior Research Analyst",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Chicago, IL location."
+  },
+  {
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Boston-Massachusetts-United-States-of-America/Associate--Sustainable-Equity-Team--Putnam-_862869",
+    "company": "Franklin Templeton",
+    "role": "Fundamental Equity Investment Associate, Sustainable Investing Team (Putnam Equity)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Boston, MA location."
+  },
+  {
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Invitation-Only/job/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
+    "company": "Franklin Templeton",
+    "role": "Investment Associate (Quantitative Research - FT Investment Solutions)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Boston, MA location."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/summer-research-associate-campus-26000GP9-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein - Summer Research Associate (Campus)",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/summer-senior-research-associate-campus-26000GPF-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein - Summer Senior Research Associate (Campus)",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/research-associate-campus-26000GPD-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein - Research Associate (Campus)",
+    "first_seen": "2026-09-21",
+    "note": "added to postings.json"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/senior-research-associate-campus-26000GPH-en",
+    "company": "AllianceBernstein",
+    "role": "Senior Research Associate (Campus)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: full-time Senior-tier MBA hire, doesn't match title criteria."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/senior-research-associate-us-pharma-and-biotech-250006XO-en",
+    "company": "AllianceBernstein",
+    "role": "Senior Research Associate - US Pharma and Biotech",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Senior-tier lateral hire, requires prior experience."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/bernstein-senior-research-associate-us-payments-processors-and-it-services-26000DQV-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein Senior Research Associate - US Payments, Processors and IT Services",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Senior-tier lateral hire, requires prior experience."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/autonomous-senior-research-associate-us-capital-markets-260004ER-en",
+    "company": "AllianceBernstein",
+    "role": "Autonomous Senior Research Associate - US Capital Markets",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: Senior-tier lateral hire, requires prior experience."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/research-associate-us-biotechnology-250002FD-en",
+    "company": "AllianceBernstein",
+    "role": "Research Associate - US Biotechnology",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: outside 4-month date window (2025-vintage)."
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/research-associate-25000BF9-en",
+    "company": "AllianceBernstein",
+    "role": "Research Associate",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: old 2025-vintage req, presumed stale/outside window."
+  },
+  {
+    "link": "https://higher.gs.com/roles/180771",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Life Insurance, Associate",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 2-4 years experience."
+  },
+  {
+    "link": "https://higher.gs.com/roles/162231",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research, Regional Banks and Consumer Finance, Associate",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: lateral-hire pattern, ~3+ years experience."
+  },
+  {
+    "link": "https://higher.gs.com/roles/147103",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research Associate, Beverages, HPC, Tobacco and Convenience Stores",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: sector-Associate lateral-hire pattern, could not confirm entry-level."
+  },
+  {
+    "link": "https://higher.gs.com/roles/139815",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research Associate (sector unspecified)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: could not confirm entry-level text."
+  },
+  {
+    "link": "https://higher.gs.com/roles/144350",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research Analyst (sector unspecified)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: could not confirm 0-1yr qualifications text."
+  },
+  {
+    "link": "https://higher.gs.com/roles/144853",
+    "company": "Goldman Sachs",
+    "role": "Global Investment Research, Equity Research Analyst, Payments & FinTech",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: could not confirm 0-1yr entry-level text."
+  },
+  {
+    "link": "https://talents.vaia.com/companies/goldman-sachs-group-inc/2026-americas-new-york-city-area-global-investment-research-equity-research-new-analyst-37586616/",
+    "company": "Goldman Sachs",
+    "role": "2026 GIR Equity Research New Analyst [duplicate mirror]",
+    "first_seen": "2026-09-21",
+    "note": "Duplicate re-crawl mirror of posting already logged under vaia ID 19798081."
+  },
+  {
+    "link": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20780-2027-Institutional-Equity-Summer-Analyst-Program-New-York/en-GB",
+    "company": "Morgan Stanley",
+    "role": "2027 Institutional Equity Summer Analyst Program (New York)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: broad Institutional Equity Division rotational program, not equity-research-specific."
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst/13015/65163379744",
+    "company": "Barclays",
+    "role": "Equity Research Analyst (generic)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: templated posting requires 1-4 years experience."
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-utilities/13015/21391068704",
+    "company": "Barclays",
+    "role": "Equity Research Analyst, Utilities",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template, not entry-level."
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-reits/13015/25483243760",
+    "company": "Barclays",
+    "role": "Equity Research Analyst, REITs",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template, not entry-level."
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-internet/22545/17918667",
+    "company": "Barclays",
+    "role": "Equity Research Analyst - Internet",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template, not entry-level."
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-us-integrated-oil-and-e-and-p/13015/52718305088",
+    "company": "Barclays",
+    "role": "Equity Research Analyst, US Integrated Oil and E&P",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template, not entry-level."
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-business-services-analyst/8810854",
+    "company": "Barclays",
+    "role": "Equity Research Business Services, Analyst",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template, not entry-level."
+  },
+  {
+    "link": "https://workopia.io/jobs/57e05d083608274e89132f6827e14d21",
+    "company": "Barclays",
+    "role": "Equity Research Multi-industry Analyst",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: confirmed 'up to four years' required."
+  },
+  {
+    "link": "https://talents.vaia.com/companies/barclays/east-new-york/equity-research-analyst-market-insight-client-advisory-74384905/",
+    "company": "Barclays",
+    "role": "Equity Research Analyst: Market Insight & Client Advisory",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: 1-4yr template family, not entry-level."
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26006457/analyst-associate-equity-research-brokers-asset-managers-exchanges-new-york-new-york-united-states-esomprank-nshxwpcrzl-5",
+    "company": "Bank of America",
+    "role": "Analyst/Associate: Equity Research - Brokers, Asset Managers, & Exchanges",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 1-3 years; posted 2026-02-26, outside date window."
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26015698/equity-research-analyst-associate-transportation-shipping-new-york-new-york-united-states",
+    "company": "Bank of America",
+    "role": "Equity Research Analyst/Associate - Transportation & Shipping",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires min 1-5 years; posted 2026-05-04, just outside date window."
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-associate-industrials/287/99183727232",
+    "company": "Citigroup",
+    "role": "Equity Research Associate, Industrials [ID conflated]",
+    "first_seen": "2026-09-21",
+    "note": "Excluded: job ID resolves inconsistently to multiple different senior-level titles."
+  },
+  {
+    "link": "https://evercore.tal.net/candidate/so/pm/1/pl/3/opp/2010-Equity-Research-Associate-Media-Communications-Evercore-ISI/en-GB",
+    "company": "Evercore",
+    "role": "Equity Research Associate - Media & Communications (Evercore ISI)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: page explicitly closed to applications; also requires 2+ years."
+  },
+  {
+    "link": "https://www.tealhq.com/job/equity-research-associate-or-senior-associate-semiconductors-semiconductor-equipment_7ea1aa99e163c386d606a977533850dc14933",
+    "company": "Evercore",
+    "role": "Experienced Equity Research Associate or Senior Associate - Semiconductors & Semiconductor Equipment (Evercore ISI)",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: title explicitly labeled 'Experienced'."
+  },
+  {
+    "link": "https://bebee.com/us/jobs/internet-sector-equity-research-associate-rbc-capital-markets-llc-new-york--lensa-7428_f7e51a3bb97de1b69200c0a5d581a0619fd54f71b1a66c69239860d4cfdc8e6a",
+    "company": "RBC Capital Markets",
+    "role": "Internet Sector Equity Research Associate",
+    "first_seen": "2026-09-21",
+    "note": "Excluded: no confirmable years-of-experience text found; jobs.rbc.com blocked for direct fetch."
+  },
+  {
+    "link": "https://www.glassdoor.com/job-listing/equity-research-associate-crypto-digital-assets-jefferies-JV_IC1132348_KO0,47_KE48,57.htm?jl=1010042802815",
+    "company": "Jefferies",
+    "role": "Equity Research Associate - Crypto & Digital Assets",
+    "first_seen": "2026-09-21",
+    "note": "Rejected: requires 1-3 years experience."
   }
 ]
