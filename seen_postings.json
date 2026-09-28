@@ -946,5 +946,390 @@
     "company": "Morningstar",
     "role": "Associate Equity Research Analyst",
     "first_seen": "2026-08-17"
+  },
+  {
+    "link": "https://zapply.jobs/jobs/67be3c0a-d3a4-4d9b-ae94-910f746c7a2c/",
+    "company": "Raymond James",
+    "role": "Equity Research Associate, Internet/Digital Media",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 13 months-3 years experience + FINRA SIE/Series 86-87; exceeds 0-1yr entry threshold"
+  },
+  {
+    "link": "https://join.stifel.com/jobs/9102?lang=en-us",
+    "company": "Stifel",
+    "role": "Research Associate II, Biopharmaceuticals",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 2+ years biotech-related experience"
+  },
+  {
+    "link": "https://join.stifel.com/jobs/8084?lang=en-us",
+    "company": "Stifel",
+    "role": "Research Associate II, Aerospace & Defense",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 2-4 years and/or Associate I experience"
+  },
+  {
+    "link": "https://join.stifel.com/jobs/9247?lang=en-us",
+    "company": "Stifel",
+    "role": "Research Associate III, Medical Technology & Supplies",
+    "first_seen": "2026-09-28",
+    "reason": "Tier III senior-level role, above entry"
+  },
+  {
+    "link": "https://join.stifel.com/jobs/9490?lang=en-us",
+    "company": "Stifel",
+    "role": "KBW Equity Research Associate III, Property & Casualty Insurance",
+    "first_seen": "2026-09-28",
+    "reason": "Tier III senior-level role"
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/7282250002",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Real Estate Homebuilding",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 1-3 years IB/equity-research experience (preferred)"
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/8478964002",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Digital Assets/Fintech",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 1-3 years experience (preferred)"
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/8056212002",
+    "company": "BTIG",
+    "role": "Equity Research Senior Associate, Software",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 2-4 years; Senior title"
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/6858016002",
+    "company": "BTIG",
+    "role": "Equity Research Associate, Real Estate Finance",
+    "first_seen": "2026-09-28",
+    "reason": "Same BTIG associate experience-tier pattern as other BTIG reqs; not confirmed entry-level"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Associate---Biotechnology_R-100542",
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate, Biotechnology",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Boston, MA, not NYC"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Intern---Biotechnology_R-100113",
+    "company": "Piper Sandler",
+    "role": "Equity Research Intern, Biotechnology",
+    "first_seen": "2026-09-28",
+    "reason": "Posted ~2026-05-14, before 4-month window; location inconsistent across mirrors"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/Equity-Research-Intern---FSG_R-100475-1",
+    "company": "Piper Sandler",
+    "role": "Equity Research Intern, FSG",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Minneapolis, MN / Chicago, IL, not NYC"
+  },
+  {
+    "link": "https://baird.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Milwaukee/Internship---Equity-Research-Analyst--Summer-2027-_R20251244-2",
+    "company": "Baird",
+    "role": "Equity Research Analyst (Summer 2027 Start) / Internship - Equity Research Analyst (Summer 2027)",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Milwaukee, WI, not NYC"
+  },
+  {
+    "link": "https://builtin.com/job/equity-research-analyst-summer-2027-start/9711351",
+    "company": "Baird",
+    "role": "Internship, Equity Asset Management Research Analyst, Growth Team (Summer 2027)",
+    "first_seen": "2026-09-28",
+    "reason": "Milwaukee, WI location; asset-management track not sell-side equity research"
+  },
+  {
+    "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Equity-Research-Associate-Analyst---Capital-Appreciation-Strategy_82405",
+    "company": "T. Rowe Price",
+    "role": "Equity Research Associate Analyst - Capital Appreciation Strategy",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Baltimore, MD, not NYC"
+  },
+  {
+    "link": "https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+    "company": "Neuberger Berman",
+    "role": "Quantitative 2027 Summer Intern",
+    "first_seen": "2026-09-28",
+    "reason": "Rotational quant/PM/risk internship, not equity-research specific; targets Dec-2027/Spring-2028 grads"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/bernstein-senior-research-associate-us-payments-processors-and-it-services-26000DQV-en",
+    "company": "AllianceBernstein",
+    "role": "Bernstein Senior Research Associate - US Payments, Processors and IT Services",
+    "first_seen": "2026-09-28",
+    "reason": "Standalone sector Senior Research Associate track, 3-5yr experience, not a campus/entry role"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/autonomous-senior-research-associate-us-capital-markets-260004ER-en",
+    "company": "AllianceBernstein",
+    "role": "Autonomous Senior Research Associate - US Capital Markets",
+    "first_seen": "2026-09-28",
+    "reason": "Explicitly requires 2+ years sell-side research/IB/consulting/accounting experience"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/autonomous-senior-research-associate-us-payments-fintech-25000QEO-en",
+    "company": "AllianceBernstein",
+    "role": "Autonomous Senior Research Associate - US Payments & FinTech",
+    "first_seen": "2026-09-28",
+    "reason": "Same Autonomous Senior Research Associate track, 2+ yr experience pattern"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/-260003OK-en",
+    "company": "AllianceBernstein",
+    "role": "Equity Research Associate Japan Financials (Bernstein Autonomous - Japan)",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Tokyo, not NYC"
+  },
+  {
+    "link": "https://careers.societegenerale.com/en/job-offers/-26000F9M-en",
+    "company": "AllianceBernstein",
+    "role": "Senior Research Analyst (U.S. Internet/Technology)",
+    "first_seen": "2026-09-28",
+    "reason": "Senior title, experienced-hire track, not confirmed entry-level"
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-associate-financials/8580686",
+    "company": "Capital Group",
+    "role": "Equity Research Associate (Financials)",
+    "first_seen": "2026-09-28",
+    "reason": "Posting closed as of 2026-05-01; duplicate of already-tracked JR6288"
+  },
+  {
+    "link": "https://www.builtinnyc.com/job/equity-research-associate/10209136",
+    "company": "Capital Group",
+    "role": "Equity Research Associate (small/mid-cap consumer internet)",
+    "first_seen": "2026-09-28",
+    "reason": "Posting closed as of 2026-07-28; requires 2-5 years prior experience plus FINRA licensing"
+  },
+  {
+    "link": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Fixed-Income---Research-Associate--Emerging-Markets---Investment-Grade-Corporates-_JR6650",
+    "company": "Capital Group",
+    "role": "Fixed Income - Research Associate (Emerging Markets & Investment Grade Corporates)",
+    "first_seen": "2026-09-28",
+    "reason": "Fixed income, not equity research; location unconfirmed for NYC"
+  },
+  {
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Equity-Research-Associate-Intern--Winter-2026-Intern-_MFS-231316",
+    "company": "MFS Investment Management",
+    "role": "Equity Research Associate Intern (Winter 2026 Intern)",
+    "first_seen": "2026-09-28",
+    "reason": "Boston-based, not NYC"
+  },
+  {
+    "link": "https://www.prosple.com/graduate-employers/mfs-investment-management",
+    "company": "MFS Investment Management",
+    "role": "Fixed Income Research Associate Intern",
+    "first_seen": "2026-09-28",
+    "reason": "Fixed income (not equity) and Boston-based"
+  },
+  {
+    "link": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Fundamental-Equities-COO-Office_R-15097-1",
+    "company": "Invesco",
+    "role": "Early Career Intern - Fundamental Equities COO Office",
+    "first_seen": "2026-09-28",
+    "reason": "COO/business-management support function, not equity/investment research"
+  },
+  {
+    "link": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Investments--Risk-_R-15052",
+    "company": "Invesco",
+    "role": "Early Career Intern - Investments (Risk)",
+    "first_seen": "2026-09-28",
+    "reason": "Risk-management function, not equity/investment research"
+  },
+  {
+    "link": "https://jobs.janushenderson.com/job/New-York-Portfolio-Strategist-NY-10020/1378032800/",
+    "company": "Janus Henderson",
+    "role": "Portfolio Strategist",
+    "first_seen": "2026-09-28",
+    "reason": "Not a research-analyst role (client-facing strategist)"
+  },
+  {
+    "link": "https://jobs.janushenderson.com/",
+    "company": "Janus Henderson",
+    "role": "Associate Analyst, Equity Research - Communications",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Denver, CO, not NYC"
+  },
+  {
+    "link": "https://www.wayup.com/i-Hospitality-j-Janus-Henderson-066986905272505/",
+    "company": "Janus Henderson",
+    "role": "Equity Research Intern",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Denver, CO, not NYC (older-cycle posting)"
+  },
+  {
+    "link": "https://careers.franklintempleton.com/",
+    "company": "Franklin Templeton",
+    "role": "Equity Research Intern - Summer 2027",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Boston, not NYC"
+  },
+  {
+    "link": "https://www.ziprecruiter.com/c/Wolfe-Research/Job/Equity-Research-Associate-Brokers,-Asset-Managers-and-Exchanges/-in-New-York,NY?jid=79bde921bc1aaf2e",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Brokers, Asset Managers and Exchanges",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 1-3 years sell-side experience"
+  },
+  {
+    "link": "https://app.trinethire.com/companies/37253-wolfe-research/jobs/95207-equity-research-associate-oil-gas-houston",
+    "company": "Wolfe Research",
+    "role": "Equity Research Associate - Oil & Gas (Houston)",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Houston, not NYC"
+  },
+  {
+    "link": "https://www.tealhq.com/job/equity-research-associate-cybersecurity-sector_2683944f-5a51-4642-8be7-60a93b086095",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Cybersecurity Sector",
+    "first_seen": "2026-09-28",
+    "reason": "Requires 2-3 years related work experience"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4913834007",
+    "company": "William Blair",
+    "role": "Research Associate - Global Equity (Healthcare)",
+    "first_seen": "2026-09-28",
+    "reason": "NYC-based but requires 2-3 years investment-research experience"
+  },
+  {
+    "link": "https://www.theladders.com/job/equity-research-associate-energy-power-technologies-williamblairco-chicago-il_86833468",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Energy & Power Technologies",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Chicago, IL, not NYC"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4591701007",
+    "company": "William Blair",
+    "role": "Equity Research Associate - Consumer Sector",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Chicago, IL, not NYC"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4727206007",
+    "company": "William Blair",
+    "role": "Research Associate - Global Equity Team (Consumer)",
+    "first_seen": "2026-09-28",
+    "reason": "Location is London, not NYC"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=4711670007",
+    "company": "William Blair",
+    "role": "Equity Research Intern - Summer 2026",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Chicago, IL, not NYC"
+  },
+  {
+    "link": "https://www.williamblair.com/Careers/job-description?gh_jid=5078804007",
+    "company": "William Blair",
+    "role": "Equity Research Intern - Summer 2027",
+    "first_seen": "2026-09-28",
+    "reason": "Location is Chicago, IL, not NYC"
+  },
+  {
+    "link": "https://careers.thirdbridge.com/jobs/associate-in-new-york.2450",
+    "company": "Third Bridge",
+    "role": "Associate, New York",
+    "first_seen": "2026-09-28",
+    "reason": "Generic client-service/expert-network sourcing role, not equity research"
+  },
+  {
+    "link": "https://careers.thirdbridge.com/",
+    "company": "Third Bridge",
+    "role": "Associate, Client Services (family - multiple start dates)",
+    "first_seen": "2026-09-28",
+    "reason": "Generic client-service/expert-network sourcing roles, not equity research"
+  },
+  {
+    "link": "https://www.linkedin.com/jobs/view/equity-research-associate-\u2013-software-crypto-tech-at-moffettnathanson-llc-2653896735",
+    "company": "MoffettNathanson",
+    "role": "Equity Research Associate - Software/Crypto Tech",
+    "first_seen": "2026-09-28",
+    "reason": "Stale ~2022-era listing; no current live requisition found"
+  },
+  {
+    "link": "https://higher.gs.com/roles/143625",
+    "company": "Goldman Sachs",
+    "role": "Equity Analyst",
+    "first_seen": "2026-09-28",
+    "reason": "Title too generic/ambiguous; could not confirm equity-research-specific, entry-level, or NYC"
+  },
+  {
+    "link": "https://higher.gs.com/roles/147103",
+    "company": "Goldman Sachs",
+    "role": "GIR Equity Research Associate, Beverages/HPC/Tobacco/Convenience Stores",
+    "first_seen": "2026-09-28",
+    "reason": "Associate (not New Analyst/Associate) track, $150k-225k band consistent with experienced hire"
+  },
+  {
+    "link": "https://jobs.citi.com/job/new-york/equity-research-associate-industrials/287/99183727232",
+    "company": "Citigroup",
+    "role": "Equity Research Associate, Industrials / Transportation and Shipping",
+    "first_seen": "2026-09-28",
+    "reason": "Direct fetch returns Job Not Found; closed/removed"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26015698",
+    "company": "Bank of America",
+    "role": "Analyst/Associate - Equity Research, Transportation & Shipping",
+    "first_seen": "2026-09-28",
+    "reason": "404 - closed/removed"
+  },
+  {
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26007865",
+    "company": "Bank of America",
+    "role": "Analyst/Associate - Equity Research, Multi-Industrials",
+    "first_seen": "2026-09-28",
+    "reason": "404 - closed/removed"
+  },
+  {
+    "link": "https://evercore.tal.net/vx/candidate/so/pm/1/pl/3/opp/2927",
+    "company": "Evercore",
+    "role": "2027 Equities: Equity Research Summer Intern Program - NY",
+    "first_seen": "2026-09-28",
+    "reason": "Confirmed application deadline (01/02/2026) already passed"
+  },
+  {
+    "link": "https://evercore.tal.net/vx/candidate/so/pm/1/pl/3/opp/2682",
+    "company": "Evercore",
+    "role": "2026 Summer Associate/Intern (Equity Research)",
+    "first_seen": "2026-09-28",
+    "reason": "Confirmed application deadline already passed"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-reits/13015/25483243760",
+    "company": "Barclays",
+    "role": "Equity Research Analyst, REITs",
+    "first_seen": "2026-09-28",
+    "reason": "No confirmed entry-level language; related AVP-level posting for same team suggests experienced-hire track"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/equity-research-analyst-energy/13015/JR-0000020961-1",
+    "company": "Barclays",
+    "role": "Equity Research Analyst, Energy",
+    "first_seen": "2026-09-28",
+    "reason": "No confirmed entry-level language; same experienced-hire pattern"
+  },
+  {
+    "link": "https://search.jobs.barclays/job/new-york/ba4-equity-research-strategy/13015/JR-0000102799-5",
+    "company": "Barclays",
+    "role": "BA4 Equity Research - Strategy",
+    "first_seen": "2026-09-28",
+    "reason": "Internal band-level title (BA4) suggests non-entry role"
+  },
+  {
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651387",
+    "company": "JPMorgan",
+    "role": "Equity Research - Homebuilding & Building Products, Analyst/Associate",
+    "first_seen": "2026-09-28",
+    "reason": "No confirmed 0-1yr language; description implies industry-expert/experienced hire"
   }
 ]
