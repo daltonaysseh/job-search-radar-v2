@@ -946,5 +946,47 @@
     "company": "Morningstar",
     "role": "Associate Equity Research Analyst",
     "first_seen": "2026-08-17"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/New-York-NY/Equity-Research-Associate---MedTech_R-100720",
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate – MedTech",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: requires 1-3 years ER/IB experience"
+  },
+  {
+    "link": "https://pipersandler.wd501.myworkdayjobs.com/en-US/Piper_Sandler_Careers/job/New-York-NY/Equity-Research-Associate---Energy_R-100719",
+    "company": "Piper Sandler",
+    "role": "Equity Research Associate – Power Generation",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: requires 1-3 years ER/IB experience"
+  },
+  {
+    "link": "https://job-boards.greenhouse.io/btig27/jobs/8606379002",
+    "company": "BTIG",
+    "role": "Equity Research, Analyst/Associate, Consumer",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: qualifications text unconfirmable (Greenhouse blocked); aggregator labels mid-level"
+  },
+  {
+    "link": "https://careers.cfainstitute.org/job/equity-research-associate-strategy/84478497/",
+    "company": "Jefferies",
+    "role": "Equity Research Associate - Strategy",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: qualifications text unconfirmable"
+  },
+  {
+    "link": "https://www.themuse.com/jobs/morganstanley/equity-research-associate-rotational-program-dc5f9a",
+    "company": "Morgan Stanley",
+    "role": "Equity Research Associate - Rotational Program",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: seeks ECM/IB/corp finance backgrounds, undated"
+  },
+  {
+    "link": "https://medschool.vanderbilt.edu/career-development/?p=22115",
+    "company": "Raymond James",
+    "role": "Equity Research Associate-Biotechnology",
+    "first_seen": "2026-10-19",
+    "note": "Excluded: undated, qualifications unconfirmable"
   }
 ]
